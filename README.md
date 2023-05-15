@@ -14,7 +14,7 @@
 
 # User manual
 
-## Indepencies
+## Depencies
 * matplotlib
 * pandas
 * numpy
@@ -32,4 +32,4 @@ __Note__: Those indepencies are downloaded and used for data processing and visu
 2. For the Choropleth map, there are only users' interaction with the map and no users' input. However, the users can hover over every county to check for the extra information in the tooltip. Also, the users can drag and zoom the map for better vision.
 
 ## How to restart
-* There are two ways for users to restart the application. One of them is restart the whole Jupyter Notebook by clicking these two button in order: _Restart_ and _Run All_. The other and recommended one is to reset only the error visualization by recompile the cell that renders that visualization.
+* There are two ways for users to restart the application. One of them is restart the whole Jupyter Notebook by clicking these two button in order: _Restart_ and _Run All_. The other and recommended one is to reset only the error visualization by recompiling the cell that renders that visualization.
